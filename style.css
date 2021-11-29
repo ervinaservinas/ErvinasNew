@@ -1,0 +1,64 @@
+body {
+    margin: 10px;
+    font-family: monospace;
+}
+.generateCard{
+    padding: 10px;
+    background-color: #9f9fa6;
+    border: 1px solid black;
+    margin: 5px;
+    width: 450px;
+}
+.color1 {
+    background-color: red;
+    width: 50px;
+    height: 20px;
+    border: 1px solid black;
+    margin: 5px;
+}
+.color2 {
+    background-color: green;
+    width: 50px;
+    height: 20px;
+    border: 1px solid black;
+    margin: 5px;
+}
+.color3 {
+    background-color: blue;
+    width: 50px;
+    height: 20px;
+    border: 1px solid black;
+    margin: 5px;
+}
+.color4 {
+    background-color: violet;
+    width: 50px;
+    height: 20px;
+    border: 1px solid black;
+    margin: 5px;
+}
+
+/*FLEX*/
+
+.d-flex{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+/*IMAGE*/
+
+img {
+    height: 150px;
+    width: 150px;
+}
+
+/*CARD PREVIEW*/
+
+.cardPreview {
+
+
+}
+.savedCards{
+
+}
+
